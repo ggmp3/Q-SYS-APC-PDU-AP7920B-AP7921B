@@ -1,0 +1,2 @@
+# Q-SYS-APC-PDU-AP7920B-AP7921B
+Q-Sys User Component
